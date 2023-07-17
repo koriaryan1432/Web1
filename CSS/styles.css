@@ -1,0 +1,21 @@
+h3{
+    color: brown;
+}
+#Headone:hover{
+    color: rgb(241, 18, 18);
+}
+ol :first-child{
+    color: blue;
+}
+#containerone {
+    width: 400px;
+    height: 400px;
+    background-color:red ;
+
+}
+#container2{
+    
+    width: 400px;
+    height:  400px;
+    background: linear-gradient(to top, wheat, yellow , greenyellow);
+}
