@@ -1,0 +1,16 @@
+what if same id is applied to multiple elements ?
+what will happen if an elements contains styles for the ID and Class ?
+what do you mean by elements specificity ?
+ 1.ID 
+ 2.Class
+ 3.elements selector
+ above all the prefrences the most prefences is given to inline CSS.
+
+
+ a) elements selector 
+ b) ID selector
+ C) Class selector
+ D)Attribute selector
+ elementName[AttributeName condition]
+ <a href
+ E)Psuedo selector
